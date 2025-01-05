@@ -7,7 +7,7 @@ int main(){
     scanf ("%s",&username);
     printf ("Enter the password");
     scanf ("%d",&password);
-    if (strcmp(username, "sumityadav")==0 && password, "123454321"){
+    if (strcmp(username, "atowarrahman")==0 && password, "123454321"){
         printf ("login\n");  
     }
     else
